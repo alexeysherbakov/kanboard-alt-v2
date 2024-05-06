@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanboard alt v2", "kanboard alt v2.csproj", "{F371432F-33DD-4C77-97EC-D5F38D7B4FD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F371432F-33DD-4C77-97EC-D5F38D7B4FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F371432F-33DD-4C77-97EC-D5F38D7B4FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F371432F-33DD-4C77-97EC-D5F38D7B4FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F371432F-33DD-4C77-97EC-D5F38D7B4FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4753150-459C-4D2F-AB31-5550E25CBA81}
+	EndGlobalSection
+EndGlobal
